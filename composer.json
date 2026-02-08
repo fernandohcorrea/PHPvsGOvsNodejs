@@ -1,0 +1,12 @@
+{
+    "name": "fcorrea/ph-pvs-govs-nodejs",
+    "authors": [
+        {
+            "name": "fernando h correa",
+            "email": "fernandohcorrea@gmail.com"
+        }
+    ],
+    "require": {
+        "openswoole/core": "^22.2"
+    }
+}
